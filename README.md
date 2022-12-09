@@ -1,5 +1,5 @@
 # Genesis10-DataMunging
-This repo is a coding challenge for Genesis10. This challenge is contains a three-part challenge.
+This repo is a coding challenge for Genesis10. This challenge contains a three-part challenge.
 Within the folder Genesis10-Project you will find the 3 Part folder for this coding challenge.
 
 # Requirements
