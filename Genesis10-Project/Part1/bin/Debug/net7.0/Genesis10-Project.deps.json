@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Genesis10-Project/1.0.0": {
+        "runtime": {
+          "Genesis10-Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Genesis10-Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

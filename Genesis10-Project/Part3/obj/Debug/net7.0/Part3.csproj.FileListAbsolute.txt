@@ -1,0 +1,15 @@
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.csproj.AssemblyReference.cache
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.GeneratedMSBuildEditorConfig.editorconfig
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.AssemblyInfoInputs.cache
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.AssemblyInfo.cs
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.csproj.CoreCompileInputs.cache
+/home/hector/Documents/Genesis10-Project/Part3/bin/Debug/net7.0/Part3
+/home/hector/Documents/Genesis10-Project/Part3/bin/Debug/net7.0/Part3.deps.json
+/home/hector/Documents/Genesis10-Project/Part3/bin/Debug/net7.0/Part3.runtimeconfig.json
+/home/hector/Documents/Genesis10-Project/Part3/bin/Debug/net7.0/Part3.dll
+/home/hector/Documents/Genesis10-Project/Part3/bin/Debug/net7.0/Part3.pdb
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.dll
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/refint/Part3.dll
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.pdb
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/Part3.genruntimeconfig.cache
+/home/hector/Documents/Genesis10-Project/Part3/obj/Debug/net7.0/ref/Part3.dll
